@@ -20,12 +20,12 @@ sidebar-avatar: /img/common-img/head-picture-1.png      # use absolute URL, seei
 
 # SNS settings
 RSS: false
-# weibo_username:     xue-tong
+weibo_username:     林夕雨路lucky
 zhihu_username:     xue-tong-64-56
 github_username:    mll1798
-facebook_username:  雪桐
-twitter_username:   mjtree
-csdn_username:   m0_37713821
+#facebook_username:  雪桐
+#twitter_username:   mjtree
+#csdn_username:   m0_37713821
 
 
 
@@ -97,12 +97,12 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "微信公众号",
-        href: "https://mp.weixin.qq.com/s/faMnor1X5d1oZ-aB9CffZA"
-    },{
-        title: "CSDN",
-        href: "https://blog.csdn.net/m0_37713821"
-    }
-]
+#friends: [
+#    {
+#        title: "微信公众号",
+#        href: "https://mp.weixin.qq.com/s/faMnor1X5d1oZ-aB9CffZA"
+#    },{
+#        title: "CSDN",
+#        href: "https://blog.csdn.net/m0_37713821"
+#    }
+#]
